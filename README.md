@@ -1,5 +1,4 @@
-# Little-Yana-CMS
-Little Yana CMS | No BD
+# Little Yana CMS + Admin Panel (60 kb) NO SQL
 
 https://github.com/YanaShineRu/Little-Yana-CMS/assets/134070997/b5cf8aa3-f227-4ca5-b041-fb1590c95cbf
 
